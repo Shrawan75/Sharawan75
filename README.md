@@ -17,7 +17,7 @@ This Includes:
 
 - 📊 **PowerBI Dashboard & Process Automation** – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to aged care services.
 
-**In Progress** – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to aged care services.Use Power Automate Integrated automation features to enable real-time data updates and streamline reporting processes, enhancing decision-making efficiency.
+**In Progress** – Use Power Automate Integrated automation features to enable real-time data updates and streamline reporting processes, enhancing decision-making efficiency.
 Use Case: Connect your MySQL database from AWS RDS → Use Power BI Gateway for scheduled refresh → Publish to Power BI Service → Set weekly email report to stakeholders.
 
 **Automate further with Power Automate**  
