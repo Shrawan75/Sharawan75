@@ -21,9 +21,9 @@ This Includes:
 Use Case: Connect your MySQL database from AWS RDS → Use Power BI Gateway for scheduled refresh → Publish to Power BI Service → Set weekly email report to stakeholders.
 
 **Automate further with Power Automate**  
-Send Teams/Slack alerts for critical data changes
-Export reports as PDFs automatically
-Trigger email when a KPI exceeds a threshold
+Send Teams/Slack alerts for critical data changes,
+Export reports as PDFs automatically,
+Trigger email when a KPI exceeds a threshold.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharawan-thapa-6aa108123)
 
