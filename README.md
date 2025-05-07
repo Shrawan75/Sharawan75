@@ -15,7 +15,15 @@ This Includes:
 - 🧠 **Aged Care Dataset Generation Using Python Faker Library** – Utilized Python's Faker library to create a synthetic aged care dataset encompassing client demographics, health metrics, and service details. This dataset serves as a foundation for developing dashboards and analytics tools without compromising real patient data. ​
 
 
-- 📊 **PowerBI Dashboard & Process Automation** – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to aged care services. Integrated automation features to enable real-time data updates and streamline reporting processes, enhancing decision-making efficiency. 
+- 📊 **PowerBI Dashboard & Process Automation** – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to aged care services.
+
+**In Progress** – Developed an interactive Power BI dashboard to visualize key performance indicators (KPIs) relevant to aged care services.Use Power Automate Integrated automation features to enable real-time data updates and streamline reporting processes, enhancing decision-making efficiency.
+Use Case: Connect your MySQL database from AWS RDS → Use Power BI Gateway for scheduled refresh → Publish to Power BI Service → Set weekly email report to stakeholders.
+
+**Automate further with Power Automate**  
+Send Teams/Slack alerts for critical data changes
+Export reports as PDFs automatically
+Trigger email when a KPI exceeds a threshold
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharawan-thapa-6aa108123)
 
